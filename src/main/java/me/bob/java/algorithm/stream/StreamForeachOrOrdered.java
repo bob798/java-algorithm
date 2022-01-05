@@ -1,4 +1,4 @@
-package me.bob.java.algorithm.java8;
+package me.bob.java.algorithm.stream;
 
 import java.util.ArrayList;
 import java.util.List;
